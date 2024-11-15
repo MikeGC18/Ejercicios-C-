@@ -1,0 +1,14 @@
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\bin\Debug\net8.0\ejercicio 3.exe
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\bin\Debug\net8.0\ejercicio 3.deps.json
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\bin\Debug\net8.0\ejercicio 3.runtimeconfig.json
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\bin\Debug\net8.0\ejercicio 3.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\bin\Debug\net8.0\ejercicio 3.pdb
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.AssemblyInfo.cs
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\refint\ejercicio 3.dll
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.pdb
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ejercicio 3.genruntimeconfig.cache
+C:\Users\mrobe\OneDrive\Documentos\DAW\programacion\practicas C# programacion\ejercicio 3\obj\Debug\net8.0\ref\ejercicio 3.dll
